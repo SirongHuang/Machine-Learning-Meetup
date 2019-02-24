@@ -32,9 +32,6 @@ Select 8 most motivated and capable members near the end of the course
 
 
 ## Q & A:
-**Q: Why Fastai?**<br><br>
-A: Fastai is a high level library that implements cutting edge deep learning algorithms. It allows anyone to start implementing deep learning quickly with world-class performance and it's being used frequently in top Kaggle submissions. All in all, it's great place for beginners to start, and a necessary tool for experienced data scientist. 
-<br><br><br>
 
 **Q: Why Fastai?**<br><br>
 A: Fastai is a high level library that implements cutting edge deep learning algorithms. It allows anyone to start implementing deep learning quickly with world-class performance and it's being used frequently in top Kaggle submissions. All in all, it's great place for beginners to start, and a necessary tool for experienced data scientist. 
